@@ -1,0 +1,8 @@
+# Local runtime artifacts from Colab/transcription experiments.
+outputs/
+*.wav
+*.m4a
+*.mp4
+
+# Generated transcript outputs should be delivered separately, not committed here.
+transcript_*.txt
